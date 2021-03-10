@@ -2,8 +2,8 @@
 ## 간단한 소개
 광주소프트웨어마이스터고등학교에 재학중인 AOS앱 개발을 좋아하는 고등학생 프로그래머 류호성입니다. 
 ## Link
-GitHub: https://github.com/Hoseong-Ryu
-E-mail: hoseong091234@gmail.com
+- GitHub: https://github.com/Hoseong-Ryu
+- E-mail: hoseong091234@gmail.com
 ## 프로젝트 경험
 ### TradeIn-GSM (2020-12-28 ~ 2021-01-13)
 https://github.com/TradeIn-GSM
