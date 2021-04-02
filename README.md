@@ -22,7 +22,8 @@ https://github.com/propofolTeam/Android (깃허브)
 
 ## 기술
 * Kotlin, Java, Node.JS
-* Retrofit, Express
+* Retrofit, Glide
+* Express
 * MySQL
 * Git
 * ISTQB
