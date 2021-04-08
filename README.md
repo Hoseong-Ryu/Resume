@@ -6,13 +6,18 @@
 - E-mail: hoseong091234@gmail.com
 ## 프로젝트 경험
 ### TradeIn-GSM (2020-12-28 ~ 2021-01-13)
-https://github.com/TradeIn-GSM (깃허브)
+https://github.com/TradeIn-GSM/TIG-kiosk (키오스크)
+
+
+https://github.com/TradeIn-GSM/TIG-Server (서버)
+
 
 교내 중고거래를 원활하게 할 수 있도록 도와주는 서비스입니다. 파라바라의 서비스를 모티브 삼아 제작했으며 이 서비스로 교내 프로젝트 대회에서 **우수상**을 수상했습니다. AOS로 **키오스크**를 만드는 것과 **서버** 개발을 하였습니다.
 
 ***Retrofit*** 라이브러리를 사용해서 로그인, 회원가입기능과 중고물품구매, 판매기능을 구현했습니다. 또한 Fragment간 이동을 하기 위해서 ***Jetpack*** 의 ***navigation*** 으로 개발했습니다. 중고물품정보와 회원정보를 넘겨주는 작업을 ***RESTful API*** 로 서버를 구성했습니다. ***Node.JS*** 로 개발했으며 교외에서도 중고물품을 확인 해야되기 때문에 ***localtunnel*** 을 사용해서 외부망에서도 접속이 가능하도록 개발하였습니다.
 
 ### Propofol (2020-11-23~2020-11-25)
+![](./img/propofol.png)
 https://www.notion.so/f7a414c7c8114e1daae365d0c38852eb (개발 내용)
 
 https://github.com/propofolTeam/Android (깃허브)
@@ -26,11 +31,17 @@ https://github.com/propofolTeam/Android (깃허브)
 
 ## 기술
 * Kotlin, Java, Node.JS
-* Retrofit, Glide
+* Retrofit,
 * Express
 * MySQL
 * Git
+
+
+## 자격증
 * ISTQB
+* 정보처리기능사
+* 정보기기운용기능사
+* 컴퓨터활용능력 2급
 
 ## 활동
 앱 개발 동아리(2020 ~ NOW)
