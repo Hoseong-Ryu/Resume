@@ -21,6 +21,9 @@ https://github.com/propofolTeam/Android (깃허브)
 
 해커톤을 계기로 제 지식이 부족했다는 것을 깨달았습니다. 기술 트렌드와 다른 사람은 저와 다르게 라이브러리를 사용하는 방법을 직접 볼 수 있는 기회가 돼서 해커톤 뿐만 아니라 오프라인 행사도 참여해야겠다는 생각이 들었습니다.
 
+## [More](./Project.md)
+
+
 ## 기술
 * Kotlin, Java, Node.JS
 * Retrofit, Glide
