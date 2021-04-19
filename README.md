@@ -6,7 +6,7 @@
 - E-mail: hoseong091234@gmail.com
 ## 프로젝트 경험
 ### TradeIn-GSM (2020-12-28 ~ 2021-01-13)
-<img src="./img/TIL.jpg" height="40%" width="40%">
+<img src="./img/TIG.jpg" height="40%" width="40%">
 
 
 https://github.com/TradeIn-GSM/TIG-kiosk (키오스크)
